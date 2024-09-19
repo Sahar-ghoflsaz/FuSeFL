@@ -1,0 +1,9 @@
+Training over 8 global epochs
+Training over 4 local epochs
+model:		 network1
+dataset:	 mnist
+batch_size:	 64
+Num of clients:	 64
+Num of groups:	 32
+running training global epoch0
+running training on group0
