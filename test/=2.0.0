@@ -1,0 +1,6 @@
+Requirement already satisfied: Flask in /home/sahar/anaconda3/envs/pysyft2/lib/python3.7/site-packages (1.1.4)
+Requirement already satisfied: Werkzeug<2.0,>=0.15 in /home/sahar/anaconda3/envs/pysyft2/lib/python3.7/site-packages (from Flask) (1.0.1)
+Requirement already satisfied: click<8.0,>=5.1 in /home/sahar/anaconda3/envs/pysyft2/lib/python3.7/site-packages (from Flask) (7.1.2)
+Requirement already satisfied: itsdangerous<2.0,>=0.24 in /home/sahar/anaconda3/envs/pysyft2/lib/python3.7/site-packages (from Flask) (1.1.0)
+Requirement already satisfied: Jinja2<3.0,>=2.10.1 in /home/sahar/anaconda3/envs/pysyft2/lib/python3.7/site-packages (from Flask) (2.11.3)
+Requirement already satisfied: MarkupSafe>=0.23 in /home/sahar/anaconda3/envs/pysyft2/lib/python3.7/site-packages (from Jinja2<3.0,>=2.10.1->Flask) (2.1.5)
